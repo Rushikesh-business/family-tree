@@ -23,7 +23,6 @@ import {
   Share2,
   Download,
   Image as ImageIcon,
-  FileJson,
   Upload,
 } from 'lucide-react';
 
